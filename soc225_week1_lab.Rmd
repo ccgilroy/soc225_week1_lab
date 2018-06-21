@@ -8,6 +8,10 @@ output:
     toc: true
 ---
 
+# Opening this file
+
+You should click on `soc225_week1_lab.Rproj` when you open this lab project. Check your *working directory* if you run into trouble loading your data.
+
 # Rectangular data
 
 First, we'll look at rectangular data, which are data organized into a table of rows and columns. This is the most common type of data we'll see, and if data are in another form we'll often want to make them rectangular.
@@ -135,3 +139,6 @@ https://cran.r-project.org/web/packages/magick/vignettes/intro.html
 # image_flip(cat)
 ```
 
+# Turning in your assignment
+
+Press the "knit" button to produce an html file that will have all of your output. Please turn in **both** the Rmd and html files on Canvas.
